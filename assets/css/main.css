@@ -1782,7 +1782,7 @@
 
 /* Form */
 
-	form label {
+	/* form label {
 		display: block;
 		text-align: left;
 		margin-bottom: 0.5em;
@@ -1853,7 +1853,7 @@
 
 	form ::-moz-focus-inner {
 		border: 0;
-	}
+	} */
 
 /* Table */
 
